@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sprite5641
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prachaya Tatiyasamrit
+- 👀 I’m interested in Full Stack Web Deverloper
+- 🌱 I’m currently learning Vue.js and Node.js
+- 💞️ I’m work at Infinity Code Co.,Ltd.
+- 📫 Position Backend Deverloper.
 
 <!---
 sprite5641/sprite5641 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
