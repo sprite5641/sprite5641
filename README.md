@@ -7,8 +7,17 @@
 
 - 📫 How to reach me **prachaya.5641@hotmail.com**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprite5641&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sprite5641)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/prachaya-tatiyasamrit-6689941b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachaya-tatiyasamrit-6689941b0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
