@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **nodejs, golang, vue, nuxtjs, php, nestjs, express**
 
-- 📫 How to reach me **prachaya.5641@hotmail.com**
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprite5641&show_icons=true&theme=dark)
