@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **nodejs, golang, vue, nuxtjs, php, nestjs, express**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=sprite5641&theme=onedark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprite5641&show_icons=true&theme=dark)
 
