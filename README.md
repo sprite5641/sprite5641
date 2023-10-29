@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **nodejs, golang, vue, nuxtjs, php, nestjs, express**
 
+<a href="https://app.daily.dev/prachayatatiyasamrit"><img src="https://github.com/prachayatatiyasamrit/prachayatatiyasamrit/blob/main/devcard.svg" width="300" alt="Prachaya Tatiyasamrit's Dev Card"/></a>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=sprite5641&theme=onedark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprite5641&show_icons=true&theme=dark)
