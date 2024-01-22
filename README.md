@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Flutter, Svelte, tRPC, Docker, Go Hexagonal Architecture
 
-👀 Currently, I’m interested in DevOps, Microservices, Clean Architecture, tRPC, Cloud Computing
+- Currently, I’m interested in DevOps, Microservices, Clean Architecture, tRPC, Cloud Computing
 
 <a href="https://app.daily.dev/prachayatatiyasamrit"><img src="https://github.com/sprite5641/sprite5641/blob/master/devcard.svg" width="400" alt="Prachaya Tatiyasamrit's Dev Card"/></a>
 
