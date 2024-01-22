@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prachaya Tatiyasamrit</h1>
 <h3 align="center">A passionate full stack developer from thailand</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning Flutter, Svelte, tRPC, Docker, Go Hexagonal Architecture
 
-- 💬 Ask me about **nodejs, golang, vue, nuxtjs, php, nestjs, express**
+👀 Currently, I’m interested in DevOps, Microservices, Clean Architecture, tRPC, Cloud Computing
 
 <a href="https://app.daily.dev/prachayatatiyasamrit"><img src="https://github.com/sprite5641/sprite5641/blob/master/devcard.svg" width="400" alt="Prachaya Tatiyasamrit's Dev Card"/></a>
 
