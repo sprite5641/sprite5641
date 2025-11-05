@@ -25,7 +25,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sprite5641&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sprite5641&theme=dark" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="center">
