@@ -29,19 +29,6 @@ Currently exploring **Flutter**, **Next.js**, **Docker**, and **Go (Hexagonal Ar
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sprite5641&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sprite5641&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprite5641&layout=compact&theme=dark" height="150" />
-</p>
-
----
-
 ## 📰 Latest Articles & Highlights
 
 - 💡 Exploring Go’s Hexagonal Architecture for Modern APIs  
